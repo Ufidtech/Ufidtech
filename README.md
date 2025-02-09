@@ -1,5 +1,5 @@
-## Hi there I am Jumahim👋
-# Hello there! 👋
+## Hello there I am Jumahim! 👋
+
 
 I'm a passionate Computer Science student, diving deep into the world of technology and constantly seeking to expand my skills and knowledge.
 
