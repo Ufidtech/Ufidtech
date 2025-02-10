@@ -1,4 +1,4 @@
-## Hello there I am Jumahim! 👋
+## Hello there I am Pyrahim! 👋
 
 
 I'm a passionate Computer Science student, diving deep into the world of technology and constantly seeking to expand my skills and knowledge.
