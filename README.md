@@ -15,7 +15,7 @@ Enhancing my frontend development skills through the GitHub Student Pack and Fro
 <p align="center">
   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a href="https://linkedin.com/in/danjuma-ibrahim"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
-  <a href="https://github.com/Ufidtech"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+  <a href="https://github.com/Ufidtech"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=orange"></a>
 </p>
 
 
