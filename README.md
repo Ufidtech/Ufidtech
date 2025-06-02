@@ -1,4 +1,4 @@
-## Hello there I am Pyrahim! 👋
+## Hello there I am Ibrahim Danjuma! 👋
 
 
 I'm a passionate Computer Science student, diving deep into the world of technology and constantly seeking to expand my skills and knowledge.
