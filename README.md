@@ -5,17 +5,14 @@ I'm a passionate Computer Science student, diving deep into the world of technol
 
 ## 🚀 About Me
 
-- 🌱 Currently enhancing my Python skills and learning frontend web development with the help of the GitHub Student Pack.
-- 🤝 Passionate about community building and problem-solving.
-- 🎯 Aspiring leader always looking for opportunities to grow and make a positive impact.
+I’m passionate about web development, accessibility, responsive design, and community building. Skilled in JavaScript, HTML, and CSS, I’m continuously learning and eager to explore frameworks to expand my expertise. I believe in creating inclusive digital experiences and collaborating with others to drive innovation.
 
 ## 💻 What I'm Learning
 
-- Frontend Web Development (HTML, CSS, JavaScript)
-- Python Programming
+Enhancing my frontend development skills through the GitHub Student Pack and Frontend Masters Bootcamp. Exploring Git, version control, collaboration workflows, and deepening my expertise in web technologies.
 
 
-Feel free to reach out to me for any learning opportunity or just to say hi! Let's build something amazing together.
+
 
 <!--
 **Ufidtech/Ufidtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
