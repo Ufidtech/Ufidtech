@@ -1,11 +1,9 @@
-## Hello there I am Ibrahim Danjuma! 👋
+## Hello there, I am Ibrahim Danjuma! 👋
 
-Computer Science student focused on building strong software engineering fundamentals, 
-with a growing interest in backend systems, cloud deployment, and AI-integrated applications.
+A computer science student focused on building strong software engineering fundamentals, 
+With a growing interest in backend systems, cloud deployment, and AI-integrated applications.
 
 ## 🚀 About Me
-
-🚀 About Me
 
 I'm a Computer Science student who enjoys turning ideas into functional, accessible, 
 and reliable web applications. I currently work mainly with JavaScript, HTML, and CSS, 
@@ -14,24 +12,28 @@ and I’m expanding into React, backend development with Node.js, and cloud tech
 I care deeply about clean code, accessibility, and building solutions that solve real problems.
 I also enjoy learning in public and contributing to communities through mentorship and collaboration.
 
+## 💻 Tech Stack (Current Skills)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 ## 💻 What I'm Learning
 
-📚 What I'm Currently Learning
-
 - JavaScript (deep fundamentals)
-- React & modern frontend patterns
 - Git & collaborative workflows
-- Backend basics with Node.js
 - Computer Science fundamentals (DSA, databases, networking)
 
-  ## What I'm building
-
-  🛠️ What I'm Building
-
+## 🛠️ What I'm Building
+  
 - Small JavaScript utilities to strengthen problem-solving skills
 - Frontend projects focused on accessibility and responsive design
 - Personal and community-based projects under Ufidtech
 
+## 📊 GitHub Stats
+
+![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ufidtech&show_icons=true&theme=radical)
 
 ## Let's Get Connected
 <p align="center">
