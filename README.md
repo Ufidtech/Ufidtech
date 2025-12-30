@@ -33,7 +33,7 @@ I also enjoy learning in public and contributing to communities through mentorsh
 
 ## 📊 GitHub Stats
 
-![Ufidtech's GitHub stats](https://github-readme-stats.vercel.app/api?username=ufidtech&show_icons=true&theme=radical)
+![Ufidtech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ufidtech&theme=radical&hide_border=true)
 
 ## Let's Get Connected
 <p align="center">
