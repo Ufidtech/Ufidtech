@@ -1,15 +1,37 @@
 ## Hello there I am Ibrahim Danjuma! 👋
 
-
-I'm a passionate Computer Science student, diving deep into the world of technology and constantly seeking to expand my skills and knowledge.
+Computer Science student focused on building strong software engineering fundamentals, 
+with a growing interest in backend systems, cloud deployment, and AI-integrated applications.
 
 ## 🚀 About Me
 
-I’m passionate about web development, accessibility, responsive design, and community building. Skilled in JavaScript, HTML, and CSS, I’m continuously learning and eager to explore frameworks to expand my expertise. I believe in creating inclusive digital experiences and collaborating with others to drive innovation.
+🚀 About Me
+
+I'm a Computer Science student who enjoys turning ideas into functional, accessible, 
+and reliable web applications. I currently work mainly with JavaScript, HTML, and CSS, 
+and I’m expanding into React, backend development with Node.js, and cloud technologies.
+
+I care deeply about clean code, accessibility, and building solutions that solve real problems.
+I also enjoy learning in public and contributing to communities through mentorship and collaboration.
 
 ## 💻 What I'm Learning
 
-Enhancing my frontend development skills through the GitHub Student Pack and Frontend Masters Bootcamp. Exploring Git, version control, collaboration workflows, and deepening my expertise in web technologies.
+📚 What I'm Currently Learning
+
+- JavaScript (deep fundamentals)
+- React & modern frontend patterns
+- Git & collaborative workflows
+- Backend basics with Node.js
+- Computer Science fundamentals (DSA, databases, networking)
+
+  ## What I'm building
+
+  🛠️ What I'm Building
+
+- Small JavaScript utilities to strengthen problem-solving skills
+- Frontend projects focused on accessibility and responsive design
+- Personal and community-based projects under Ufidtech
+
 
 ## Let's Get Connected
 <p align="center">
