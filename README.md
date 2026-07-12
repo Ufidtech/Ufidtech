@@ -26,20 +26,30 @@ Beyond writing code, I am passionate about cultivating tech communities. As a **
 ## 🚀 What I'm Building
 
 * **[OnboardX](https://onboardx-ashy.vercel.app):** (In Progress) A full-stack community onboarding and mentorship engine built for the Airtel NextGen Cohort. Features capacity-aware mentor matching, Firebase transaction safety, and Azure AI-generated learning paths using React, Node.js, and Express.
+* **[Tazemi](https://ufidtech.github.io/Tazemi/):** Award-winning agritech platform addressing Nigeria's ₦72 billion annual post-harvest tomato loss. I am leading the frontend development for this bio-digital system, building the interface that integrates with real-time IoT monitoring and R&D data. *(1st Place — WTP Green Sustainability Competition 2026).*
 * **Gravio:** A mobile-first academic dashboard built with vanilla JavaScript, leveraging object-oriented principles and local storage.
 * **Unibridge (Idea Stage):** Conceptualizing an EdTech marketplace platform aimed at connecting secondary school students with university mentors.
 * **Hands-On Learning Projects:** Continuously building independent, practical applications to reinforce my understanding of core computer science concepts using a Just-In-Time learning approach.
 
 ## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ufidtech&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ufidtech&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
+</div>
 
-![Ufidtech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ufidtech&theme=radical&hide_border=true)
+## 🤝 Let's Connect
 
-## Let's Get Connected
-<p align="center">
-  <a href="https://twitter.com/@danjumaibr87761"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-  <a href="https://linkedin.com/in/danjuma-ibrahim"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
-</p>
-
+<div align="center">
+  <a href="https://linkedin.com/in/Danjuma-Ibrahim">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/danjumalibr87761">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:ufidfarooq@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
 
 
