@@ -19,6 +19,7 @@ Beyond writing code, I am passionate about cultivating tech communities. As a **
 
 ## 🧠 What I'm Learning & Exploring
 
+* **Certifications:** Currently preparing for the Microsoft Azure Associate Certification A103, targeting completion in September 2026.
 * **Backend & Cloud-Native Engineering:** Transitioning toward server-side architectures, exploring containerization (Docker, Kubernetes), and picking up basic Python.
 * **Frontend Expansion:** Deepening my web development foundation by stepping into TypeScript.
 * **Core Computer Science:** Diving deep into Data Structures & Algorithms (DSA), Operating Systems mechanics, and Compiler Design.
