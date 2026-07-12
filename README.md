@@ -1,35 +1,34 @@
-## Hello there, I am Ibrahim Danjuma! 👋
+> *How do we engineer systems that scale, write code that empowers, and cultivate communities that thrive?*
 
-A computer science student focused on building strong software engineering fundamentals, 
-With a growing interest in backend systems, cloud deployment, and AI-integrated applications.
+### Hello there, I am Ibrahim Danjuma! 👋
+**Student Software Engineer | Microsoft Associate Student Ambassador | Building at the intersection of code and community.**
+### 🚀 About Me
 
-## 🚀 About Me
+I am a Computer Science undergraduate deeply focused on building strong, scalable software engineering fundamentals. While I have hands-on experience building web applications within the JavaScript ecosystem (including HTML, CSS, and React), my overarching focus is on becoming a well-rounded software engineer. To that end, I am actively expanding my expertise into backend systems, cloud-native infrastructure, and core computer science concepts like data structures and operating systems mechanics.
 
-I'm a Computer Science student who enjoys turning ideas into functional, accessible, 
-and reliable web applications. I currently work mainly with JavaScript, HTML, and CSS, 
-and I’m expanding into React, backend development with Node.js, and cloud technologies.
-
-I care deeply about clean code, accessibility, and building solutions that solve real problems.
-I also enjoy learning in public and contributing to communities through mentorship and collaboration.
+Beyond writing code, I am passionate about cultivating tech communities. As a **Microsoft Associate Student Ambassador**, a **GDG On Campus Core Team Member**, I coordinate student tech initiatives and foster collaborative environments for my peers. I thrive on Just-In-Time learning—diving into the documentation and building practical, hands-on projects to grasp complex concepts from the ground up.
 
 ## 💻 Tech Stack (Current Skills)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Microsoft Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 💻 What I'm Learning
+## 🧠 What I'm Learning & Exploring
 
-- JavaScript (deep fundamentals)
-- Git & collaborative workflows
-- Computer Science fundamentals (DSA, databases, networking)
+* **Backend & Cloud-Native Engineering:** Transitioning toward server-side architectures, exploring containerization (Docker, Kubernetes), and picking up basic Python.
+* **Frontend Expansion:** Deepening my web development foundation by stepping into TypeScript.
+* **Core Computer Science:** Diving deep into Data Structures & Algorithms (DSA), Operating Systems mechanics, and Compiler Design.
 
-## 🛠️ What I'm Building
-  
-- Small JavaScript utilities to strengthen problem-solving skills
-- Frontend projects focused on accessibility and responsive design
-- Personal and community-based projects under Ufidtech
+## 🚀 What I'm Building
+
+* **[OnboardX](https://onboardx-ashy.vercel.app):** (In Progress) A full-stack community onboarding and mentorship engine built for the Airtel NextGen Cohort. Features capacity-aware mentor matching, Firebase transaction safety, and Azure AI-generated learning paths using React, Node.js, and Express.
+* **Gravio:** A mobile-first academic dashboard built with vanilla JavaScript, leveraging object-oriented principles and local storage.
+* **Unibridge (Idea Stage):** Conceptualizing an EdTech marketplace platform aimed at connecting secondary school students with university mentors.
+* **Hands-On Learning Projects:** Continuously building independent, practical applications to reinforce my understanding of core computer science concepts using a Just-In-Time learning approach.
 
 ## 📊 GitHub Stats
 
