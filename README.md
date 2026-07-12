@@ -34,7 +34,7 @@ Beyond writing code, I am passionate about cultivating tech communities. As a **
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ufidtech&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ufidtech&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ufidtech&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
 </div>
 
 ## 🤝 Let's Connect
