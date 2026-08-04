@@ -21,13 +21,13 @@ Beyond writing code, I am passionate about cultivating tech communities. As a **
 
 * **Certifications:** Currently preparing for the Microsoft Azure Associate Certification A103, targeting completion in September 2026.
 * **Backend & Cloud-Native Engineering:** Transitioning toward server-side architectures, exploring containerization (Docker, Kubernetes), and picking up basic Python.
-* **Frontend Expansion:** Deepening my web development foundation by stepping into TypeScript.
+* **Frontend Expansion:** Deepening my web development foundation, with TypeScript next on my list to explore.
 * **Core Computer Science:** Diving deep into Data Structures & Algorithms (DSA), Operating Systems mechanics, and Compiler Design.
 
 ## 🚀 What I'm Building
 
-* **[OnboardX](https://onboardx-ashy.vercel.app):** (In Progress) A full-stack community onboarding and mentorship engine built for the Airtel NextGen Cohort. Features capacity-aware mentor matching, Firebase transaction safety, and Azure AI-generated learning paths using React, Node.js, and Express.
-* **[Tazemi](https://ufidtech.github.io/Tazemi/):** Award-winning agritech platform addressing Nigeria's ₦72 billion annual post-harvest tomato loss. I am leading the frontend development for this bio-digital system, building the interface that integrates with real-time IoT monitoring and R&D data. *(1st Place — WTP Green Sustainability Competition 2026).*
+* **[OnboardX](https://onboardx-ashy.vercel.app):** (In Progress) A full-stack community onboarding and mentorship engine — originally scoped for a cohort challenge I couldn't submit to, now continuing as a personal project. Features capacity-aware mentor matching, Firebase transaction safety, and Azure AI-generated learning paths using React, Node.js, and Express.
+* **[Tazemi](https://ufidtech.github.io/Tazemi/):** Award-winning agritech platform addressing Nigeria's ₦72 billion annual post-harvest tomato loss through bio-shield coating operations. I lead frontend development for this system — the public site, executive dashboard, and role-based UI for CEO and field-operator workflows. *(1st Place — WTP Green Sustainability Competition 2026).*
 * **Gravio:** A mobile-first academic dashboard built with vanilla JavaScript, leveraging object-oriented principles and local storage.
 * **Unibridge (Idea Stage):** Conceptualizing an EdTech marketplace platform aimed at connecting secondary school students with university mentors.
 * **Hands-On Learning Projects:** Continuously building independent, practical applications to reinforce my understanding of core computer science concepts using a Just-In-Time learning approach.
@@ -51,20 +51,3 @@ Beyond writing code, I am passionate about cultivating tech communities. As a **
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
-
-
-
-<!--
-**Ufidtech/Ufidtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
