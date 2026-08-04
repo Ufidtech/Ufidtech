@@ -4,9 +4,9 @@
 **Student Software Engineer | Microsoft Associate Student Ambassador | Building at the intersection of code and community.**
 ### 🚀 About Me
 
-I am a Computer Science undergraduate deeply focused on building strong, scalable software engineering fundamentals. While I have hands-on experience building web applications within the JavaScript ecosystem (including HTML, CSS, and React), my overarching focus is on becoming a well-rounded software engineer. To that end, I am actively expanding my expertise into backend systems, cloud-native infrastructure, and core computer science concepts like data structures and operating systems mechanics.
+I am a Computer Science undergraduate deeply focused on building strong, scalable software engineering fundamentals. My current focus is frontend development within the JavaScript ecosystem (HTML, CSS, and React), alongside core computer science concepts like data structures and operating systems mechanics. Backend systems and cloud-native infrastructure are next on my roadmap as I grow toward becoming a well-rounded software engineer.
 
-Beyond writing code, I am passionate about cultivating tech communities. As a **Microsoft Associate Student Ambassador**, a **GDG On Campus Core Team Member**, I coordinate student tech initiatives and foster collaborative environments for my peers. I thrive on Just-In-Time learning—diving into the documentation and building practical, hands-on projects to grasp complex concepts from the ground up.
+Beyond writing code, I am passionate about cultivating tech communities. As a **Microsoft Associate Student Ambassador**, **GDG On Campus Core Team Member**, **Notion Campus Lead**, and **3MTT NextGen Fellow**, I coordinate student tech initiatives and foster collaborative environments for my peers. I thrive on Just-In-Time learning—diving into the documentation and building practical, hands-on projects to grasp complex concepts from the ground up.
 
 ## 💻 Tech Stack (Current Skills)
 
@@ -19,14 +19,14 @@ Beyond writing code, I am passionate about cultivating tech communities. As a **
 
 ## 🧠 What I'm Learning & Exploring
 
-* **Certifications:** Currently preparing for the Microsoft Azure Associate Certification A103, targeting completion in September 2026.
-* **Backend & Cloud-Native Engineering:** Transitioning toward server-side architectures, exploring containerization (Docker, Kubernetes), and picking up basic Python.
-* **Frontend Expansion:** Deepening my web development foundation, with TypeScript next on my list to explore.
+* **Frontend Expansion:** My primary focus right now — deepening my React and JavaScript foundation, with TypeScript next on my list to explore.
 * **Core Computer Science:** Diving deep into Data Structures & Algorithms (DSA), Operating Systems mechanics, and Compiler Design.
+* **Certifications:** Currently preparing for the Microsoft Azure Associate Certification A103, targeting completion in September 2026.
+* **Looking Ahead — Backend & Cloud-Native:** Not yet underway, but on my roadmap — containerization (Docker, Kubernetes) and backend fundamentals in Python once I've deepened my frontend and CS foundation.
 
 ## 🚀 What I'm Building
 
-* **[OnboardX](https://onboardx-ashy.vercel.app):** (In Progress) A full-stack community onboarding and mentorship engine — originally scoped for a cohort challenge I couldn't submit to, now continuing as a personal project. Features capacity-aware mentor matching, Firebase transaction safety, and Azure AI-generated learning paths using React, Node.js, and Express.
+* **[OnboardX](https://onboardx-ashy.vercel.app):** (In Progress) A full-stack community onboarding and mentorship engine — originally scoped for a cohort challenge I couldn't submit to, now continuing as a personal project. Built using Node.js and Express skills from my 3MTT NextGen Fellowship, applied hands-on for the first time. Features capacity-aware mentor matching, Firebase transaction safety, and Azure AI-generated learning paths using React, Node.js, and Express.
 * **[Tazemi](https://ufidtech.github.io/Tazemi/):** Award-winning agritech platform addressing Nigeria's ₦72 billion annual post-harvest tomato loss through bio-shield coating operations. I lead frontend development for this system — the public site, executive dashboard, and role-based UI for CEO and field-operator workflows. *(1st Place — WTP Green Sustainability Competition 2026).*
 * **Gravio:** A mobile-first academic dashboard built with vanilla JavaScript, leveraging object-oriented principles and local storage.
 * **Unibridge (Idea Stage):** Conceptualizing an EdTech marketplace platform aimed at connecting secondary school students with university mentors.
