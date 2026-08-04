@@ -1,7 +1,7 @@
 > *How do we engineer systems that scale, write code that empowers, and cultivate communities that thrive?*
 
 ### Hello there, I am Ibrahim Danjuma! 👋
-**Student Software Engineer | Microsoft Associate Student Ambassador | Building at the intersection of code and community.**
+Frontend Engineer | Microsoft Associate Student Ambassador | Building at the intersection of code and community.
 ### 🚀 About Me
 
 I am a Computer Science undergraduate deeply focused on building strong, scalable software engineering fundamentals. My current focus is frontend development within the JavaScript ecosystem (HTML, CSS, and React), alongside core computer science concepts like data structures and operating systems mechanics. Backend systems and cloud-native infrastructure are next on my roadmap as I grow toward becoming a well-rounded software engineer.
