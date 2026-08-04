@@ -13,7 +13,7 @@
 
 ---
 
-### 🏆 Currently building **[Tazémi](https://tazemi.vercel.app/))**
+### 🏆 Currently building **[Tazémi](https://tazemi.vercel.app/)**
 Award-winning agritech platform cutting Nigeria's ₦72 billion annual post-harvest tomato loss.
 **1st Place — WTP Green Sustainability Competition 2026.**
 I lead the frontend — public site, executive dashboard, role-based UI for CEO and field-operator workflows.
